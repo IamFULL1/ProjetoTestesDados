@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "updatedAt": "2026-07-11T12:00:00-03:00",
+  "links": {
+    "discord": "https://discord.com/",
+    "serverRules": "https://github.com/IamFULL1/ProjetoTestesDados/blob/main/README.md"
+  },
+  "internalPages": {
+    "project_info": "https://github.com/IamFULL1/ProjetoTestesDados"
+  }
+}

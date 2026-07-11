@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "updatedAt": "2026-07-11T12:00:00-03:00",
+  "banners": [
+    {
+      "id": "projeto-destaque",
+      "title": "Conteúdo atualizado",
+      "description": "Confira as novidades mais recentes do projeto.",
+      "imageUrl": "https://raw.githubusercontent.com/IamFULL1/ProjetoTestesDados/main/images/banners/projeto-destaque-v1.webp",
+      "priority": 100,
+      "enabled": true,
+      "startsAt": "2026-07-11T00:00:00-03:00",
+      "endsAt": "2036-07-14T23:59:59-03:00",
+      "action": {
+        "type": "internal_page",
+        "value": "project_info"
+      }
+    }
+  ]
+}
