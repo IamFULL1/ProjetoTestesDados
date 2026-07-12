@@ -17,6 +17,66 @@
         "type": "internal_news",
         "value": "novidades-projeto"
       }
+    },
+    {
+      "id": "novidades-projeto2",
+      "title": "Novidades disponíveis2",
+      "summary": "O conteúdo da página inicial agora pode ser atualizado remotamente.",
+      "content": "Notícias, banners e links agora são entregues por conteúdo remoto, com cache local e funcionamento offline.",
+      "imageUrl": "https://raw.githubusercontent.com/IamFULL1/ProjetoTestesDados/main/images/news/novidades-v1.webp",
+      "publishedAt": "2026-07-11T12:00:00-03:00",
+      "category": "update",
+      "featured": true,
+      "enabled": true,
+      "action": {
+        "type": "internal_news",
+        "value": "novidades-projeto"
+      }
+    },
+    {
+      "id": "novidades-projeto3",
+      "title": "Novidades disponíveis3",
+      "summary": "O conteúdo da página inicial agora pode ser atualizado remotamente.",
+      "content": "Notícias, banners e links agora são entregues por conteúdo remoto, com cache local e funcionamento offline.",
+      "imageUrl": "https://raw.githubusercontent.com/IamFULL1/ProjetoTestesDados/main/images/news/novidades-v1.webp",
+      "publishedAt": "2026-07-11T12:00:00-03:00",
+      "category": "update",
+      "featured": true,
+      "enabled": true,
+      "action": {
+        "type": "internal_news",
+        "value": "novidades-projeto"
+      }
+    },
+    {
+      "id": "novidades-projeto4",
+      "title": "Novidades disponíveis4",
+      "summary": "O conteúdo da página inicial agora pode ser atualizado remotamente.",
+      "content": "Notícias, banners e links agora são entregues por conteúdo remoto, com cache local e funcionamento offline.",
+      "imageUrl": "https://raw.githubusercontent.com/IamFULL1/ProjetoTestesDados/main/images/news/novidades-v1.webp",
+      "publishedAt": "2026-07-11T12:00:00-03:00",
+      "category": "update",
+      "featured": true,
+      "enabled": true,
+      "action": {
+        "type": "internal_news",
+        "value": "novidades-projeto"
+      }
+    },
+    {
+      "id": "novidades-projeto5",
+      "title": "Novidades disponíveis5",
+      "summary": "O conteúdo da página inicial agora pode ser atualizado remotamente.",
+      "content": "Notícias, banners e links agora são entregues por conteúdo remoto, com cache local e funcionamento offline.",
+      "imageUrl": "https://raw.githubusercontent.com/IamFULL1/ProjetoTestesDados/main/images/news/novidades-v1.webp",
+      "publishedAt": "2026-07-11T12:00:00-03:00",
+      "category": "update",
+      "featured": true,
+      "enabled": true,
+      "action": {
+        "type": "internal_news",
+        "value": "novidades-projeto"
+      }
     }
   ]
 }
