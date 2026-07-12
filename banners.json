@@ -16,6 +16,20 @@
         "type": "internal_page",
         "value": "project_info"
       }
+    },
+    {
+      "id": "projeto-destaque2",
+      "title": "Conteúdo atualizado 2",
+      "description": "Confira as novidades mais recentes do projeto 2.",
+      "imageUrl": "https://raw.githubusercontent.com/IamFULL1/ProjetoTestesDados/main/images/banners/cobblemon-banner-looks-epic-v0-oalspkbfms4d1.webp",
+      "priority": 90,
+      "enabled": true,
+      "startsAt": "2026-07-11T00:00:00-03:00",
+      "endsAt": "2036-07-14T23:59:59-03:00",
+      "action": {
+        "type": "internal_page",
+        "value": "project_info"
+      }
     }
   ]
 }
